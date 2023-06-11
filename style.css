@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('/imgs/timothy-eberly-LHm2nLdtC9g-unsplash.jpg');
+  background-image: url('https://github.com/jeffmarquess/Calculadora_IMC/blob/main/imgs/timothy-eberly-LHm2nLdtC9g-unsplash.jpg?raw=true');
   background-size: cover;
   backdrop-filter: blur(2px);
   font-size: 15px;
@@ -19,7 +19,8 @@ body {
 div.box {
   width: 500px;
   height: 200px;
-  background: url('/imgs/textura_madeira_autoral.jpg') no-repeat;
+  background: url('https://github.com/jeffmarquess/Calculadora_IMC/blob/main/imgs/textura_madeira_autoral.jpg?raw=true')
+    no-repeat;
   background-size: cover;
   display: flex;
   justify-content: center;
