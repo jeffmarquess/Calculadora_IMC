@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IMC Calculadora</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body onload="inicíar()">
+    <header></header>
+    <main>
+      <div class="box">
+        <h1>Índice de Massa Corporal</h1>
+        <input type="number" name="peso" id="box__peso" placeholder="Peso" />
+        <input
+          type="number"
+          name="altura"
+          id="box__altura"
+          placeholder="Altura"
+        />
+        <div class="box-display">
+          <p id="box-display__display"></p>
+          <div id="indicador" title="indicador visual"></div>
+        </div>
+        <input type="button" value="Avaliar" id="avaliar" />
+      </div>
+    </main>
+    <footer></footer>
+    <script src="index.js"></script>
+  </body>
+</html>
