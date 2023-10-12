@@ -3,6 +3,7 @@
 passo a passo:
 
 1.Primeiro multiplicamos a altura por ela mesma.
+
 2.Com o valor número encontrado dividimos o peso pelo quadrado da altura.
 
 pesoa / ltura² = imc
