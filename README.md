@@ -6,7 +6,7 @@ passo a passo:
 
 2.Com o valor número encontrado dividimos o peso pelo quadrado da altura.
 
-peso / ltura² = imc
+peso / altura² = imc
 
 Ou seja, o resultado do seu IMC é "x kg/m²"
 
